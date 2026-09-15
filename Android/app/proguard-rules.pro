@@ -1,0 +1,9 @@
+-keepattributes *Annotation*, InnerClasses, EnclosingMethod, Signature
+-keep class kotlinx.serialization.** { *; }
+-keepclassmembers class kotlinx.serialization.** { *; }
+-keep class com.openhands.remote.core.model.** { *; }
+-dontwarn okhttp3.**
+-dontwarn okio.**
+-dontwarn org.bouncycastle.**
+-dontwarn org.conscrypt.**
+-dontwarn org.openjsse.**
