@@ -1,6 +1,6 @@
 # OpenHands Frontend for Cross-Platform
 
-这是一个面向 OpenHands 的跨平台前端项目。当前暂提供 Android 客户端，未来将支持 Intel Mac 和 Windows、Linux端，为不同平台提供统一的 OpenHands 使用入口。
+这是一个面向 OpenHands 的跨平台前端项目。当前暂提供 Android 客户端，未来将支持 Intel Mac 平台提供统一的 OpenHands 使用入口。
 
 ## 部署
 
